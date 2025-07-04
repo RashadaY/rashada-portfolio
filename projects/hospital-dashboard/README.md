@@ -1,5 +1,7 @@
 # U.S. Hospital Resource Dashboard
 
+![Dashboard Preview](HospitalResourceDashbaord.png)
+
 This project uses CMS Hospital General Information data to analyze hospital types, ownership models, and emergency services across U.S. states.
 
 ## Tools Used
@@ -8,8 +10,6 @@ This project uses CMS Hospital General Information data to analyze hospital type
 
 ## Dashbaord
 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/rashada.young/viz/HospitalResourceDashboard/Dashboard1)
-
-![Hospital Dashboard Preview](HospitalResourceDashbaord.png)
 
 ## Features
 - Map view of hospital locations by ownership
