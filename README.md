@@ -1,5 +1,6 @@
 # Hi, I'm Rashada Young
 **Data Analyst | SQL * Tableau * Python * Excel * Power BI**
+
 Welcome to my data analytics portfolio! I use data to ask better questions, challenge assumptions, and drive insight-backed decisions. This space showcases my real-world projects across healthcare, finance, and business analytics.
 ---
 ## Projects
