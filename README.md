@@ -6,6 +6,7 @@ Welcome to my data analytics portfolio! I use data to ask better questions, chal
 ## Projects
 ### 1. U.S. Hospital Resource Dashboard
 **Tools:** Tableau, Excel
+
 **Skills:** Data cleaning, interactive visualization, geographic mapping
 
 [ View Dashboard] (https://public.tableau.com/app/profile/rashada.young/viz/HospitalResourceDashboard/Dashboard1)
