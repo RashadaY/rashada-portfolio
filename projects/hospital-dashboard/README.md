@@ -9,6 +9,8 @@ This project uses CMS Hospital General Information data to analyze hospital type
 ## Dashbaord
 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/rashada.young/viz/HospitalResourceDashbaord/Dashboard1)
 
+![Hospital Dashboard Preview](./HospitalResourceDashboard.png)
+
 ## Features
 - Map view of hospital locations by ownership
 - State-level counts of hospitals
