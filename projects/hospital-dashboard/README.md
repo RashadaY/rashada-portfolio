@@ -15,10 +15,10 @@ This project uses CMS Hospital General Information data to analyze hospital type
 - Map view of hospital locations by ownership
 - State-level counts of hospitals
 - Emergency service availability heatmap
-- Interactive filters by type, location, ownership
+- Interactive filters by type, location, and ownership
 
 ## Files
-- 'hospital_info_cleaned.csv' - cleaned dataset (to upload next)
+- 'hospital_info_cleaned.csv' - cleaned dataset 
 - Screenshot of dashboard (optional for preview)
 
 ## Key Insights
