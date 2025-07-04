@@ -11,6 +11,7 @@ Welcome to my data analytics portfolio! I use data to ask better questions, chal
 
 **Description:**
 This interactive dashboard analyzes hospital ownership, type, and emergency services availability across U.S. states using CMS data. It helps stakeholders identify disparities in access to emergency care and visualize hospital distribution patterns.
+
 [View Dataset & Files](./projects/hospital-dashboard)
 ---
 
