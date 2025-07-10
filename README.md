@@ -24,7 +24,6 @@ This interactive dashboard analyzes hospital ownership, type, and emergency serv
 
 [View Notebook](./project/churn-prediction/churn_model.html)
 [View Dataset & Files](./projects/churn-prediction)
-
 ** Description:**
 This project explores customer churn in a telecom company using classification models to predict which customers are at risk of leaving. Using a Random Forest model, the project achieved an 80% recall rate for identifying churners, and visualizations were used to communicate key features driving customer loss. 
 
