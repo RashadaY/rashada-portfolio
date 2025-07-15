@@ -23,12 +23,15 @@ This interactive dashboard analyzes hospital ownership, type, and emergency serv
 
 **Skills:** Data cleaning, classification modeling, feature importance analysis, model evaluation
 
-[View Notebook](./churn-prediction/churn_model.ipynb)
+[View Notebook](./churn-prediction/churn_model(2).ipynb)
 
 [View Dataset & Files](./churn-prediction/)
 
-** Description:**
+**Description:**
+
 This project explores customer churn in a telecom company using classification models to predict which customers are at risk of leaving. Using a Random Forest model, the project achieved an 80% recall rate for identifying churners, and visualizations were used to communicate key features driving customer loss. 
+
+
 
 _(3 more projects in progress!)_
 ---
