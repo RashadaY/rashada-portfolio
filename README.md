@@ -9,7 +9,7 @@ Welcome to my data analytics portfolio! I use data to ask better questions, chal
 
 **Skills:** Data cleaning, interactive visualization, geographic mapping
 
-[ View Dashboard] (https://public.tableau.com/app/profile/rashada.young/viz/HospitalResourceDashboard/Dashboard1)
+[ View Dashboard](https://public.tableau.com/app/profile/rashada.young/viz/HospitalResourceDashboard/Dashboard1)
 
 **Description:**
 This interactive dashboard analyzes hospital ownership, type, and emergency services availability across U.S. states using CMS data. It helps stakeholders identify disparities in access to emergency care and visualize hospital distribution patterns.
@@ -25,11 +25,14 @@ This interactive dashboard analyzes hospital ownership, type, and emergency serv
 
 [View Notebook](./churn-prediction/churn_model.ipynb)
 
-[View Dataset & Files](./churn-prediction/)
-
 **Description:**
 
 This project explores customer churn in a telecom company using classification models to predict which customers are at risk of leaving. Using a Random Forest model, the project achieved an 80% recall rate for identifying churners, and visualizations were used to communicate key features driving customer loss. 
+
+[View Dataset & Files](./churn-prediction/)
+---
+
+
 
 
 
