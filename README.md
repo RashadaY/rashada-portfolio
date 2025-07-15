@@ -23,7 +23,7 @@ This interactive dashboard analyzes hospital ownership, type, and emergency serv
 
 **Skills:** Data cleaning, classification modeling, feature importance analysis, model evaluation
 
-[View Notebook](./churn-prediction/churn_model (2).ipynb)
+[View Notebook](./churn-prediction/churn_model.ipynb)
 
 [View Dataset & Files](./churn-prediction/)
 
