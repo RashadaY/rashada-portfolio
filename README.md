@@ -36,7 +36,7 @@ This project explores customer churn in a telecom company using classification m
 
 
 
-_(3 more projects in progress!)_
+_(1 more project in progress!)_
 ---
 ## Contact Me
 - Email: rashadamcmath@icloud.com
